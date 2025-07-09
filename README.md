@@ -27,8 +27,8 @@ Git, GitHub, VS Code, Google Colab
 ---
 
 ## 📂 Projects
-- ❤Heart Attack Detector [https://github.com/Sheikhunnis/HeartAttackPrediction]
-- 🧮Simple Calculator [https://github.com/Sheikhunnis/simplecalculator]
+- ❤Heart Attack Detector [https://github.com/vasantha123-56/heart-attack]
+- identifying-rotten-fruits-and-vegetables [https://github.com/vasantha123-56/transfer-learning-for-identifying-rotten-fruits-and-vegetables]
 - 📌 Check more in my repositories [https://github.com/vasantha123-56]
 
 ---
