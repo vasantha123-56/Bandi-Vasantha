@@ -16,7 +16,7 @@ Scikit-learn, TensorFlow (basics), VS Code
 Power BI, Excel
 
 🛠 Developer Tools:
-Git, GitHub, VS Code, Google Colab
+Git, GitHub, VS Code
 
 ---
 
